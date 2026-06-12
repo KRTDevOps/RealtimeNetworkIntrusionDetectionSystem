@@ -1,4 +1,4 @@
-# 🛡️ Real-time Network Intrusion Detection System (RNIDS)
+# 🛡️ Realtime Network Intrusion Detection System (RNIDS)
 
 *A hybrid ML-powered security solution for identifying network threats in real-time.*
 
@@ -115,7 +115,7 @@ The datasets are preprocessed using:
 
 ```bash
 # Clone the repo
-git clone https://github.com/Noel9812/RNIDS.git
+git clone https://github.com/KRTDevOps/RealtimeNetworkIntrusionDetectionSystem.git
 
 # Create virtual environment
 python -m venv venv
